@@ -1,6 +1,6 @@
 # Examen práctico - Terminal de Expedición Espacial
-# Nombre y apellido:
-# Curso:
+# Nombre y apellido:Augusto Leveratto
+# Curso:2°1°
 #
 # IMPORTANTE:
 # Resolver el programa siguiendo las etapas indicadas en el README.md.
