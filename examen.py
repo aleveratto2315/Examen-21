@@ -11,7 +11,17 @@
 
 # =========================
 # ETAPA 1 - INICIO
-# =========================
+luna = ("luna")
+cluna = int ("20")
+combustible =int ("100")
+marte = ("marte")
+cmarte = int ("35")
+saturno = ("saturno")
+csaturno = int ("50")
+lista = ("puedes viajar hacia la luna, marte y saturno")
+n1 = input ("cual es tu nombre")
+
+# # =========================
 
 # Crear las variables necesarias.
 # Crear las listas de destinos y costos.
